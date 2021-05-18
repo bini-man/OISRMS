@@ -1,0 +1,4 @@
+amarega
+user managemnet 
+password reset
+not fixed status
